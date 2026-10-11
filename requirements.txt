@@ -1,0 +1,9 @@
+datalad==1.6.5
+hdbscan==0.8.44
+matplotlib==3.11.2
+numpy==2.4.6
+pandas==3.0.6
+pooch==1.9.0
+scikit_learn==1.9.1
+scipy==1.17.1
+spikeinterface==0.105.0
